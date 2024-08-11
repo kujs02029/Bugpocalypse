@@ -1,7 +1,7 @@
 # Bugpocalypse
 
 # My Portfolio #
-[https://02029js.wixsite.com/jasonhahne](url
+https://02029js.wixsite.com/jasonhahne
 
 # About the Game #
 Bugpocalypse is an action-roguelike game set in a post-apocalypse world where bugs got bigger. Players can choose the exterminator they want to play and the weapon that they want. You can get new weapons or passive items and upgrade them by killing bugs.
